@@ -34,7 +34,7 @@ If these vulnerabilities remain unaddressed, the organization will remain vulner
 
 ## 📘 What to Expect in the Full Report
 
-The accompanying report (`incident-report.md`) will include:
+The accompanying report (`Network Hardening Assessment.md`) will include:
 
 - Detailed explanation of the breach
 - Selected hardening tools (e.g., MFA, password policies, firewall rules)
