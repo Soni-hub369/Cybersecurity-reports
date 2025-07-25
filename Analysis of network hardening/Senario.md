@@ -7,7 +7,7 @@ You are a security analyst working for a social media organization that recently
 
 Your task is to investigate the root causes of this incident and help your organization implement **network hardening practices** to reduce the likelihood of future attacks.
 
-==============================================================================================================================================================================================
+=============================================================================
 
 ## 🔍 Root Cause Summary
 
@@ -20,7 +20,7 @@ Upon conducting a network inspection, four key vulnerabilities were identified:
 
 If these vulnerabilities remain unaddressed, the organization will remain vulnerable to **data theft, unauthorized access, brute force attacks, and lateral movement** across the network.
 
-===============================================================================================================================================================================================
+================================================================================
 
 ## 🎯 Objectives
 
@@ -29,7 +29,7 @@ If these vulnerabilities remain unaddressed, the organization will remain vulner
 - Provide actionable recommendations for long-term risk reduction.
 - Document all findings in a professional security risk assessment.
 
-===============================================================================================================================================================================================
+===================================================================================
 
 
 ## 📘 What to Expect in the Full Report
@@ -41,7 +41,7 @@ The accompanying report (`incident-report.md`) will include:
 - Justifications for each method based on industry standards
 - Recommendations for ongoing security monitoring and compliance
 
-===============================================================================================================================================================================================
+=====================================================================================
 
 
 ## 🔐 Notes
