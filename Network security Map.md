@@ -1,8 +1,7 @@
-# 🛡️ Network Security Course Summary (Modules 1–4)
+# 🛡️ Network Security 
 
 ---
 
-## 🌐 Modules 1–3: Core Networking, Protocols, and Attacks
 
 ### 📘 Module 1: Networking Basics
 
