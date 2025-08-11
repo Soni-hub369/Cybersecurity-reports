@@ -16,6 +16,10 @@ The command below shows how I checked the existing permissions for a specific di
 
 
 
+<img width="666" height="326" alt="permission details" src="https://github.com/user-attachments/assets/48e692ae-bdf3-45cc-a606-f134e98bac01" />
+
+
+
 ### Understanding the Output
 
 In the screenshot, the first line shows the command I entered, while the lines below display the output. This command lists everything inside the `projects` directory. I used:ls command with the -la option to display a detailed listing of the file contents that also returned hidden files. The output of my command indicates that there is one directory named drafts, one hidden file named .project_x.txt, and five other project files. The 10-character string in the first column represents the permissions set on each file or directory.
