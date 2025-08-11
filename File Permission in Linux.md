@@ -65,6 +65,7 @@ The organization decided that **others** should not have write access to any of 
 
 
 
+<img width="666" height="213" alt="change permission" src="https://github.com/user-attachments/assets/70b537a9-50e5-49fa-903d-107dcb9380cc" />
 
 
 ### Understanding the Commands
@@ -88,6 +89,7 @@ The research team at my organization recently archived `project_x.txt`. They dec
 
 
 
+<img width="666" height="208" alt="change permission hidden file" src="https://github.com/user-attachments/assets/a7067a23-8f6b-427b-a19a-4ae782e42465" />
 
 ### Understanding the Commands
 
@@ -109,6 +111,7 @@ These changes adjusted the file permissions accordingly.
 My organization wants only the user `researcher2` to have access to the `drafts` directory and everything inside it. This means that no other users should have execute permissions on this directory.
 
 
+<img width="662" height="209" alt="change permission of directory" src="https://github.com/user-attachments/assets/6a28c35c-6cf0-400a-9bc1-c2700dd4d18b" />
 
 
 ### Interpreting the Output
