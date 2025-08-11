@@ -73,7 +73,7 @@ In the screenshot, the first two lines show the commands I entered, and the rema
 
 In this example, I removed write permissions for **others** on the file `project_k.txt`:
 
-```bash
+
 chmod o-w project_k.txt
 
 =============================================================================
