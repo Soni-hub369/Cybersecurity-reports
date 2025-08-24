@@ -17,6 +17,8 @@ A possible security incident happened after business hours (after 18:00). To inv
 
 This query helped identify suspicious login activity after hours.  
 
+<img width="667" height="359" alt="Retrive after hour failed login attempts" src="https://github.com/user-attachments/assets/62bb1a66-7af7-4bba-8a95-148fcead6af9" />
+
 ---
 
 ## 2. Retrieve Login Attempts on Specific Dates  
@@ -30,6 +32,9 @@ A suspicious event occurred on **2022-05-09**, and I also needed to check the da
 
 This provided all login activity from those two days for further investigation.  
 
+
+<img width="664" height="311" alt="Retrive login attempts on specific dates" src="https://github.com/user-attachments/assets/36793694-645c-4dd4-bdf3-c1412c4aadac" />
+
 ---
 
 ## 3. Retrieve Login Attempts Outside of Mexico  
@@ -42,6 +47,8 @@ Some login attempts from outside Mexico appeared suspicious and needed review.
 
 This query helped highlight logins from unusual locations.  
 
+<img width="666" height="311" alt="retrive login attempts outside mexico" src="https://github.com/user-attachments/assets/fac931c1-7470-49f8-9df1-82f5222fd0a4" />
+
 ---
 
 ## 4. Retrieve Employees in Marketing (East Building)  
@@ -53,7 +60,9 @@ My team needed to update computers for Marketing employees located in the East b
   - `department = 'Marketing'`  
   - `office LIKE 'East%'`  
 
-This filtered the exact group of employees whose machines required updates.  
+This filtered the exact group of employees whose machines required updates. 
+<img width="669" height="244" alt="retrive employees in marketing" src="https://github.com/user-attachments/assets/7cf3cc1a-af05-478e-aa99-d4a921546fa7" />
+
 
 ---
 
@@ -67,6 +76,8 @@ Computers for Finance and Sales employees needed different updates.
   - `department = 'Sales'`  
 
 This gave me the full list of employees from both departments.  
+<img width="662" height="265" alt="retrive employees in finance or sales" src="https://github.com/user-attachments/assets/36dd964a-4a78-4d2b-953f-ff9e0166eef2" />
+
 
 ---
 
@@ -78,7 +89,9 @@ Finally, we needed to update computers for employees **outside the IT department
 - Used a `WHERE` clause with `NOT`.  
   - `department != 'Information Technology'`  
 
-This query provided all non-IT employees who required security updates.  
+This query provided all non-IT employees who required security updates. 
+<img width="662" height="312" alt="Retrive all employees not in IT" src="https://github.com/user-attachments/assets/37965f94-f302-4725-a1df-bbc58c77a50c" />
+
 
 ---
 
